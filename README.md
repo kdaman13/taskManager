@@ -65,7 +65,6 @@ A full-stack Task Manager application built with the MERN stack (MongoDB, Expres
 ### 1. Clone the repository
 ```bash
 git clone <repo-url>
-cd 044951_mern_task_manager_app_27032025
 ```
 
 ### 2. Backend Setup
